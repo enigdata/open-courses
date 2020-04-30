@@ -1,5 +1,5 @@
-# Udacity Nanodegrees
-Notes and codes from Udacity Nanodegree programs.
+# Udacity Courses
+Notes and codes from Udacity classes.
 
 - Machine Learning Enigneer
 - Data Engineer
