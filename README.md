@@ -1,5 +1,5 @@
-# MOOC Courses
-Notes and codes from selected online classes.
+# Open Courses
+Notes and codes from general MOOC classes.
 
 - Machine Learning Enigneer
 - Data Engineer
