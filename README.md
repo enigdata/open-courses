@@ -1,5 +1,5 @@
-# Udacity Courses
-Notes and codes from Udacity classes.
+# MOOC Courses
+Notes and codes from selected online classes.
 
 - Machine Learning Enigneer
 - Data Engineer
